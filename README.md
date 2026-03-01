@@ -1,1 +1,1 @@
-# RecoChat AI - Smart Movie Recommender Chatbot
+# RecoChat AI - Smart Recommender Chatbot
